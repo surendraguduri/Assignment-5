@@ -33,6 +33,7 @@ int main()
             printf("%d\t", *(*(c+i)+j));
             
         }
+        printf("\n");
         
     }
 }
